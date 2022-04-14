@@ -3,5 +3,5 @@ Source_Code_Template_Path=C:/Users/Lenovo/Documents/GitHub/python-data-analysis-
 
 [Jupyter]
 Localhost_Port:8888
-Token=f8050b227f04f7b114ec9567a1292085790f209f5e1b9f19
-Kernel_id=0f620154-ee57-4a00-b633-a2040dbc8fb4
+Token=98ce1b39fe6d92818880d727c8397f35be0dbbe89d392000
+Kernel_id=f684e99e-b09f-402d-bf50-571bdb68e160
